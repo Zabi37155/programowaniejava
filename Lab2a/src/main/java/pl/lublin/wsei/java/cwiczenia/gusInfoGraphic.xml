@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Główny Urząd Statystyczny</title>
+		<link>https://stat.gov.pl/</link>
+		<description>Główny Urząd Statystyczny - Portal Statystyki Publicznej</description>
+		<image>
+			<title>Główny Urząd Statystyczny</title>
+			<url>https://stat.gov.pl/szablony/portalinformacyjny/images/logo_normal.gif</url>
+			<link>https://stat.gov.pl/</link>
+		</image>
+		<atom:link href="https://stat.gov.pl/rss/pl/portalinformacyjny.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title><![CDATA[Wyniki finansowe instytucji kultury w 2021 roku]]></title>
+			<pubDate><![CDATA[Wed, 08 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/kultura-turystyka-sport/kultura/wyniki-finansowe-instytucji-kultury-w-2021-roku,18,7.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/kultura-turystyka-sport/kultura/wyniki-finansowe-instytucji-kultury-w-2021-roku,18,7.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[Wartość aktywów (pasywów) badanych instytucji kultury na dzień 31 grudnia 2021 r. wyniosła 21 209,4 mln zł. Przychody ogółem były wyższe o 9,5%, a koszty ogółem o 10,5% od osiągniętych w 2020 r.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Działalność centrów kultury, domów kultury, ośrodków kultury, klubów i świetlic w 2021 roku]]></title>
+			<pubDate><![CDATA[Wed, 08 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/kultura-turystyka-sport/kultura/dzialalnosc-centrow-kultury-domow-kultury-osrodkow-kultury-klubow-i-swietlic-w-2021-roku,9,5.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/kultura-turystyka-sport/kultura/dzialalnosc-centrow-kultury-domow-kultury-osrodkow-kultury-klubow-i-swietlic-w-2021-roku,9,5.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[Według stanu na koniec 2021 r. działalność prowadziły 3944 centra kultury, domy kultury, ośrodki kultury, kluby i świetlice. W ciągu roku placówki zorganizowały 156,6 tys. imprez, w których wzięło udział 18,3 mln uczestników.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Przestępstwa przeciwko życiu i zdrowiu]]></title>
+			<pubDate><![CDATA[Mon, 06 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/wymiar-sprawiedliwosci/wymiar-sprawiedliwosci/przestepstwa-przeciwko-zyciu-i-zdrowiu,3,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/wymiar-sprawiedliwosci/wymiar-sprawiedliwosci/przestepstwa-przeciwko-zyciu-i-zdrowiu,3,1.html</guid>
+			<category>Tablica</category>
+			<description><![CDATA[Przestępstwa przeciwko życiu i zdrowiu]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Informacja na temat publikacji "Powierzchnia i ludność w przekroju terytorialnym w 2022 r."]]></title>
+			<pubDate><![CDATA[Fri, 03 Jun 2022 11:42:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/informacja-na-temat-publikacji-powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2022-r-,43,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/informacja-na-temat-publikacji-powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2022-r-,43,1.html</guid>
+			<category>Notatka informacyjna</category>
+			<description><![CDATA[Uprzejmie informujemy, że publikacja „Powierzchnia i ludność w przekroju terytorialnym w 2022 r.”, której wydanie zaplanowane było na 20 lipca 2022 r. zostanie opublikowana  07 grudnia 2022 r.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Apteki i punkty apteczne w 2021 roku]]></title>
+			<pubDate><![CDATA[Thu, 02 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/zdrowie/zdrowie/apteki-i-punkty-apteczne-w-2021-roku,15,6.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/zdrowie/zdrowie/apteki-i-punkty-apteczne-w-2021-roku,15,6.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[W końcu 2021 r. działalność prowadziło 11,9 tys. aptek (ogólnodostępnych i zakładowych) oraz 1,1 tys. punktów aptecznych, w których pracowało 58,3 tys. magistrów farmacji i techników farmaceutycznych.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Wiadomości Statystyczne. The Polish Statistician nr 5/2022]]></title>
+			<pubDate><![CDATA[Wed, 01 Jun 2022 12:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/czasopisma/wiadomosci-statystyczne/archiwum/wiadomosci-statystyczne-the-polish-statistician-nr-52022,7,99.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/czasopisma/wiadomosci-statystyczne/archiwum/wiadomosci-statystyczne-the-polish-statistician-nr-52022,7,99.html</guid>
+			<category>Publikacja</category>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5982/7/99/1/gus_ws_2022_05_okladka.png" type="image/png" width="1308" height="1875">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5982/7/99/1/gus_ws_2022_05_okladka,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5982/7/99/1/gus_ws_2022_05_okladka,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>31 maja 2022 r. ukazał się nr 5/2022 "Wiadomości Statystycznych. The Polish Statistician". Zapraszamy na stronę https://ws.stat.gov.pl/Issue/2022/5]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Infografika - Dzień Dziecka (1 czerwca)]]></title>
+			<pubDate><![CDATA[Wed, 01 Jun 2022 10:20:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/infografiki-widzety/infografiki/infografika-dzien-dziecka-1-czerwca,118,2.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/infografiki-widzety/infografiki/infografika-dzien-dziecka-1-czerwca,118,2.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5866/118/2/1/dzien_dziecka_2022_slider_ang.png" type="image/png" width="1230" height="690">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/118/2/1/dzien_dziecka_2022_slider_ang,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5866/118/2/1/dzien_dziecka_2022_slider_ang,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Badanie statystyczne z zakresu rolnictwa od 1 do 28 czerwca 2022 r.]]></title>
+			<pubDate><![CDATA[Wed, 01 Jun 2022 09:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/aktualnosci/badanie-statystyczne-z-zakresu-rolnictwa-od-1-do-28-czerwca-2022-r-,433,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/aktualnosci/badanie-statystyczne-z-zakresu-rolnictwa-od-1-do-28-czerwca-2022-r-,433,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5438/433/1/1/szablon-badania-ankietowe-_rolnicze-sm_pi_gus_pl.png" type="image/png" width="1230" height="690">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5438/433/1/1/szablon-badania-ankietowe-_rolnicze-sm_pi_gus_pl,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5438/433/1/1/szablon-badania-ankietowe-_rolnicze-sm_pi_gus_pl,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>W dniach od 1 do 28 czerwca 2022 r. na terenie całej Polski zostanie przeprowadzone Badanie pogłowia świń oraz produkcji żywca wieprzowego (formularz R-ZW-S).]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Wprowadzenie stopni alarmowych BRAVO i CHARLIE-CRP]]></title>
+			<pubDate><![CDATA[Wed, 01 Jun 2022 08:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/aktualnosci/wprowadzenie-stopni-alarmowych-bravo-i-charlie-crp,423,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/aktualnosci/wprowadzenie-stopni-alarmowych-bravo-i-charlie-crp,423,1.html</guid>
+			<description><![CDATA[Na podstawie Zarządzenia nr 153 z dnia 31 maja 2022 roku w sprawie wprowadzenia drugiego stopnia alarmowego oraz 154 z dnia 31 maja 2022 roku w sprawie wprowadzenia trzeciego stopnia alarmowego CRP, Prezes Rady Ministrów od dnia 1 czerwca 2022 roku, od godz. 00:00, do dnia 30 czerwca 2022 roku do godz. 23:59 wprowadził na całym terytorium Rzeczypospolitej Polskiej: Drugi stopień alarmowy (BRAVO), Trzeci stopień alarmowy CRP (CHARLIE-CRP)]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Skup i ceny produktów rolnych w 2021 roku]]></title>
+			<pubDate><![CDATA[Tue, 31 May 2022 17:25:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/rolnictwo/skup-i-ceny-produktow-rolnych-w-2021-roku,7,18.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/rolnictwo/skup-i-ceny-produktow-rolnych-w-2021-roku,7,18.html</guid>
+			<category>Publikacja</category>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5507/7/18/1/przechwytywanie_2.png" type="image/png" width="609" height="848">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5507/7/18/1/przechwytywanie_2,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5507/7/18/1/przechwytywanie_2,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>Podstawowe informacje o wielkości skupu produktów rolnych (w zakresie ilości oraz wartości) wg grup produktów. Informacje o cenach skupu oraz cenach uzyskiwanych przez rolników na targowiskach.]]></description>
+		</item>
+	</channel>
+</rss>
